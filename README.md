@@ -6,4 +6,4 @@ Name | Student Number
 Shay Tanne | 21595608
 Alex Khadra| _________
 Liam Buchan| _________
-Tanaya Parakh| _________
+Tanaya Parakh| 62304852
