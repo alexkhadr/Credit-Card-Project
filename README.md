@@ -1,7 +1,7 @@
-# DSCI100_GroupProject
+# DSCI100 Group Project
 
 ## Team Members
 Shay Tanne \
 Alex Khadra\
 Liam Buchan\
-Tanaya Parakh\
+Tanaya Parakh
